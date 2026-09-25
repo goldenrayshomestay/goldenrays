@@ -1,0 +1,8 @@
+# Golden Rays Beach Stay — robots.txt
+# Host this at the ROOT of your domain, e.g. https://www.goldenraysbeachstay.com/robots.txt
+# Replace the Sitemap line below with your real domain once you have one.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.goldenraysbeachstay.com/sitemap.xml
